@@ -1,0 +1,148 @@
+# Privacy Policy for Act Tracker
+
+**Last Updated: December 12, 2024**
+
+## Introduction
+
+Act Tracker ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
+### Personal Information
+We collect the following personal information:
+- **Email Address**: Used for account authentication and communication
+- **Name**: Obtained from Google Sign-In (if you choose this login method)
+- **Profile Picture**: Obtained from Google Sign-In (if you choose this login method)
+
+### Application Data
+We collect and store the following data you create:
+- **Assignments**: Title, description, deadline, priority, status
+- **Projects**: Name, description, color codes, dates, status
+- **User Preferences**: Theme settings (light/dark mode)
+- **Device Tokens**: For push notifications via Firebase Cloud Messaging
+
+### Automatically Collected Information
+- **Device Information**: Device type, operating system version
+- **Usage Data**: App features you use, crash reports
+- **Log Data**: Timestamps of app usage
+
+## How We Use Your Information
+
+We use your information to:
+- **Provide Services**: Enable you to create, manage, and track assignments and projects
+- **Authentication**: Verify your identity and secure your account
+- **Notifications**: Send reminders for upcoming deadlines
+- **Improve App**: Analyze usage patterns to enhance user experience
+- **Support**: Respond to your inquiries and provide customer support
+- **Security**: Detect and prevent fraud or abuse
+
+## Third-Party Services
+
+We use the following third-party services:
+
+### Firebase (Google LLC)
+- **Firebase Authentication**: For user login and account management
+- **Cloud Firestore**: For data storage and synchronization
+- **Firebase Cloud Messaging**: For push notifications
+- **Privacy Policy**: https://firebase.google.com/support/privacy
+
+### Google Sign-In
+- **Purpose**: Alternative authentication method
+- **Privacy Policy**: https://policies.google.com/privacy
+
+## Data Storage and Security
+
+- Your data is stored securely in Google's Firebase cloud infrastructure
+- We use industry-standard encryption for data transmission (SSL/TLS)
+- Firebase provides enterprise-grade security and compliance
+- We implement authentication and authorization controls
+- Access to your data requires your login credentials
+
+## Data Retention
+
+- Your data is retained as long as your account is active
+- Deleted assignments and projects are permanently removed
+- Account deletion removes all associated data within 30 days
+
+## Your Rights
+
+You have the right to:
+- **Access**: View all data we have about you
+- **Correction**: Update or correct your information
+- **Deletion**: Request deletion of your account and data
+- **Export**: Download your data in a portable format
+- **Opt-Out**: Disable push notifications in app settings
+
+### How to Exercise Your Rights
+- Delete data: Use in-app deletion features
+- Delete account: Contact us at support@acttracker.app
+- Export data: Contact us at support@acttracker.app
+
+## Children's Privacy
+
+Act Tracker is not intended for children under 13. We do not knowingly collect information from children under 13. If you believe a child has provided us with personal information, please contact us immediately.
+
+## Push Notifications
+
+- We send push notifications for assignment reminders
+- You can disable notifications in your device settings
+- Disabling notifications won't affect core app functionality
+- We use Firebase Cloud Messaging for delivery
+
+## Data Sharing
+
+We do NOT:
+- Sell your personal information to third parties
+- Share your data with advertisers
+- Use your data for marketing purposes
+- Access your data without your permission
+
+We MAY share data:
+- If required by law or legal process
+- To protect our rights or the rights of others
+- With your explicit consent
+
+## International Data Transfers
+
+Your data may be transferred to and stored on servers located outside your country. Firebase infrastructure spans multiple regions globally. By using the app, you consent to this transfer.
+
+## Changes to Privacy Policy
+
+We may update this Privacy Policy periodically. Changes will be posted here with an updated "Last Updated" date. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## California Privacy Rights (CCPA)
+
+If you are a California resident, you have additional rights:
+- Right to know what personal information is collected
+- Right to delete personal information
+- Right to opt-out of sale (we don't sell data)
+- Right to non-discrimination for exercising rights
+
+## GDPR Compliance (EU Users)
+
+If you are in the European Union:
+- We process data based on your consent
+- You have the right to data portability
+- You can lodge complaints with supervisory authorities
+- We appoint a data protection officer upon request
+
+## Contact Us
+
+If you have questions about this Privacy Policy or your data:
+
+**Email**: support@acttracker.app
+**App Support**: support@acttracker.app
+**Response Time**: Within 48 hours
+
+## Consent
+
+By using Act Tracker, you consent to this Privacy Policy and agree to its terms.
+
+---
+
+**Note to Developer**: 
+1. Replace `[YOUR_EMAIL_HERE]` with your actual support email
+2. Host this policy on a public URL (GitHub Pages, your website, Firebase Hosting)
+3. Add the URL to Google Play Store listing
+4. Update the "Last Updated" date when making changes
+5. Keep a copy of each version for compliance records
